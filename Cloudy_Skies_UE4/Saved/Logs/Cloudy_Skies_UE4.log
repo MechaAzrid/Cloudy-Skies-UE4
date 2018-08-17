@@ -748,3 +748,936 @@ LogInit: Object subsystem initialized
 [2018.08.17-02.53.05:419][882]LogFileHelpers: Loading map 'Prototype_Level_01' took 0.458
 [2018.08.17-02.53.06:577][917]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Prototype_Level_01CD8204604D57B259388473A5AD23B419.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Scenes/Prototype/Prototype_Level_01.umap'
 [2018.08.17-02.53.06:661][917]LogFileHelpers: Saving map 'Prototype_Level_01' took 0.577
+[2018.08.17-03.11.58:165][503]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.17-03.11.58:195][503]LightingResults: New page: Lighting Build
+[2018.08.17-03.11.58:196][503]MapCheck: New page: Map Check
+[2018.08.17-03.11.58:196][503]LightingResults: New page: Lighting Build
+[2018.08.17-03.11.58:294][503]LogAIModule: Creating AISystem for world Untitled
+[2018.08.17-03.11.58:303][503]LoadErrors: New page: New Map
+[2018.08.17-03.11.58:331][503]LogAIModule: Creating AISystem for world Prototype_Level_01
+[2018.08.17-03.12.04:922][559]LogSlate: Window 'New Level' being destroyed
+[2018.08.17-03.12.04:927][559]LightingResults: New page: Lighting Build
+[2018.08.17-03.12.04:927][559]MapCheck: New page: Map Check
+[2018.08.17-03.12.04:927][559]LightingResults: New page: Lighting Build
+[2018.08.17-03.12.05:019][559]LogAIModule: Creating AISystem for world Untitled
+[2018.08.17-03.12.05:029][559]LoadErrors: New page: New Map
+[2018.08.17-03.12.05:061][561]LogEditorViewport: Clicking Background
+[2018.08.17-03.12.05:861][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.17-03.12.07:630][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.17-03.12.18:629][810]LogSlate: Window 'Save Level As' being destroyed
+[2018.08.17-03.12.18:636][810]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2018.08.17-03.12.19:148][810]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Prototype_Level_01E7E3F32444F6E476CA943AB2693D0BB1.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Scenes/Prototype/Prototype_Level_01.umap'
+[2018.08.17-03.12.19:223][810]LogFileHelpers: Saving map 'Prototype_Level_01' took 0.584
+[2018.08.17-03.12.20:250][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.13.46:506][627]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Downloaded Games\Paper2DTextures\2DBackground.TGA)
+[2018.08.17-03.13.46:551][627]LogTexture: Display: Building textures: 2DBackground (AutoDXT, 512X512)
+[2018.08.17-03.13.47:061][627]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Downloaded Games\Paper2DTextures\2DBackgroundBlockAtlas.TGA)
+[2018.08.17-03.13.47:073][627]LogTexture: Display: Building textures: 2DBackgroundBlockAtlas (AutoDXT, 1024X1024)
+[2018.08.17-03.13.47:336][627]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Downloaded Games\Paper2DTextures\2DBackgroundTile.TGA)
+[2018.08.17-03.13.47:340][627]LogTexture: Display: Building textures: 2DBackgroundTile (AutoDXT, 256X256)
+[2018.08.17-03.13.47:439][627]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Downloaded Games\Paper2DTextures\2DCharacter_IdleAnimAtlas.TGA)
+[2018.08.17-03.13.47:454][627]LogTexture: Display: Building textures: 2DCharacter_IdleAnimAtlas (AutoDXT, 1024X1024)
+[2018.08.17-03.13.47:808][627]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Downloaded Games\Paper2DTextures\2DCharacter_RunAnimAtlas.TGA)
+[2018.08.17-03.13.47:820][627]LogTexture: Display: Building textures: 2DCharacter_RunAnimAtlas (AutoDXT, 1024X1024)
+[2018.08.17-03.13.48:265][627]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Downloaded Games\Paper2DTextures\CharacterJumping.png)
+[2018.08.17-03.13.48:270][627]LogTexture: Display: Building textures: CharacterJumping (AutoDXT, 256X256)
+[2018.08.17-03.13.48:410][627]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Downloaded Games\Paper2DTextures\PrototypeTexture.png)
+[2018.08.17-03.13.48:415][627]LogTexture: Display: Building textures: PrototypeTexture (AutoDXT, 256X256)
+[2018.08.17-03.13.49:664][653]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Prototype_Level_012451B4FA4D3CAB40E46BC8A993E3F02E.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Scenes/Prototype/Prototype_Level_01.umap'
+[2018.08.17-03.14.16:862][524]LogAssetEditorManager: Opening Asset editor for Material /Game/WorkStation/Assets/Materials/Level_Prototype.Level_Prototype
+[2018.08.17-03.14.16:882][524]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.14.17:849][524]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.14.17:880][524]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.17-03.14.17:880][524]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.17-03.14.17:980][524]LogSlate: Took 0.034853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.17-03.14.19:425][566]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.17-03.14.20:389][608]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.17-03.14.21:002][637]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.17-03.14.21:003][637]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.17-03.14.21:831][678]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.17-03.14.21:970][686]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.17-03.14.22:405][705]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.17-03.14.22:500][710]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.17-03.14.23:390][758]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.17-03.14.24:514][814]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.17-03.14.25:220][852]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.17-03.14.25:635][873]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.17-03.14.26:855][934]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.17-03.14.27:743][977]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.17-03.14.28:008][990]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.17-03.14.29:519][ 69]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.14.29:598][ 73]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.14.30:381][113]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.14.31:275][157]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.14.32:435][215]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.08.17-03.14.32:435][215]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.08.17-03.14.32:435][215]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.14.32:435][215]MaterialEditorStats: Texture samplers: 3/16
+[2018.08.17-03.14.43:000][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.14.45:793][ 41]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.14.45:830][ 41]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.17-03.14.45:830][ 41]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.17-03.14.46:669][ 84]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.17-03.14.46:947][ 99]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.14.46:991][ 99]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.14.47:004][ 99]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.14.47:124][100]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.14.47:341][112]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.14.47:509][121]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.14.48:110][150]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.14.49:155][200]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.14.49:155][200]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.14.49:155][200]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.15.16:008][937]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.15.16:091][938]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.15.16:091][938]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.15.16:116][938]LogSlate: Took 0.013724 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.17-03.15.18:373][ 52]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.15.18:415][ 54]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.15.21:623][231]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.15.21:623][231]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.15.21:623][231]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.15.32:505][922]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.15.32:517][922]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.15.32:606][923]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.15.32:606][923]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.15.33:410][962]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.15.33:596][972]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.15.35:335][ 72]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.15.35:335][ 72]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.15.35:335][ 72]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.15.44:451][638]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.15.44:459][638]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.15.44:459][638]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.15.44:462][638]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.15.45:013][665]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.15.45:021][665]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.15.45:025][665]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.15.45:152][671]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.15.45:552][691]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.15.45:816][703]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.15.46:416][733]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.15.50:175][996]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.15.50:176][996]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.15.50:176][996]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.16.05:025][969]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.05:097][970]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.05:097][970]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.05:695][  1]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.16.05:830][  8]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.16.07:280][ 82]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.16.07:280][ 82]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.16.07:280][ 82]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.16.08:530][161]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.08:570][161]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.08:570][161]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.08:573][161]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.09:259][189]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.09:414][197]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.09:821][217]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.16.10:040][228]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.16.11:222][286]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.16.11:222][286]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.16.11:222][286]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.16.17:971][705]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.18:047][706]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.18:047][706]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.18:549][731]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.16.18:635][735]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.16.19:828][796]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.16.19:828][796]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.16.19:828][796]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.16.21:946][944]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.21:976][945]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.21:976][945]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.22:779][985]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.16.22:818][987]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.16.23:314][ 12]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.23:822][ 33]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.24:014][ 42]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.24:510][ 66]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.16.25:141][ 97]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.16.26:210][148]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.16.26:210][148]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.16.26:210][148]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.16.28:641][298]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.28:653][298]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.28:686][299]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.28:686][299]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.29:231][325]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.16.29:349][331]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.16.30:649][394]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.16.30:649][394]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.16.30:649][394]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.16.30:690][396]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.30:714][397]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.30:714][397]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.31:398][433]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.16.31:559][441]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.16.33:468][556]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.33:474][556]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.33:474][556]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.34:085][585]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.16.34:210][591]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.16.37:967][769]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.37:977][769]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.38:057][770]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.38:057][770]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.38:445][790]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.16.38:575][797]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.16.39:509][844]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.16.39:510][844]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.16.39:510][844]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.16.41:120][959]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.41:129][959]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.41:129][959]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.41:693][984]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.16.41:735][986]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.16.43:126][ 75]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.16.43:126][ 75]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.16.43:127][ 75]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.16.43:319][ 88]LogMaterialEditor: Saving and Compiling material Level_Prototype
+[2018.08.17-03.16.44:611][ 88]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.44:644][ 88]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.16.44:646][ 88]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.16.44:668][ 88]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.44:688][ 88]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.16.44:781][ 88]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Level_Prototype, compiling. 
+[2018.08.17-03.16.45:855][ 88]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.17-03.16.45:855][ 88]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.17-03.16.45:855][ 88]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.17-03.16.45:855][ 88]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.17-03.16.45:857][ 88]TextureStreamingBuild: Display: Compiling optional shaders took 1.086 seconds.
+[2018.08.17-03.16.47:541][ 88]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Level_PrototypeC744744B415506A4A8CE8086B2F80DC4.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Materials/Level_Prototype.uasset'
+[2018.08.17-03.17.08:656][967]LogMaterialEditor: Saving and Compiling material Level_Prototype
+[2018.08.17-03.17.10:011][967]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.17.10:043][967]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.17.10:043][967]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.17.10:067][967]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.17.10:088][967]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.17.10:195][967]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Level_Prototype, compiling. 
+[2018.08.17-03.17.11:856][967]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.17-03.17.11:856][967]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.17-03.17.11:856][967]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.17-03.17.11:856][967]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.17-03.17.11:859][967]TextureStreamingBuild: Display: Compiling optional shaders took 1.673 seconds.
+[2018.08.17-03.17.13:526][967]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Level_Prototype92A22D084EFAACDD10A819A1C3D8BACC.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Materials/Level_Prototype.uasset'
+[2018.08.17-03.17.19:200][284]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.17.19:213][284]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.08.17-03.17.19:346][285]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.17-03.17.19:346][285]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.17-03.17.20:058][313]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.17.20:198][319]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.17.21:279][366]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.17.21:486][375]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.17.21:513][376]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.17.21:513][376]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.17.21:513][376]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.17.46:500][756]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.17.46:512][756]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.08.17-03.17.46:530][756]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.17.46:530][756]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.17.48:248][829]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.17.48:668][846]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.17.49:594][884]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.17.49:594][884]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.17.50:925][944]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.08.17-03.17.50:925][944]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.17.50:925][944]MaterialEditorStats: Texture samplers: 0/16
+[2018.08.17-03.17.52:774][ 47]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.17.52:792][ 47]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.17.52:792][ 47]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.17.52:795][ 47]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.08.17-03.17.53:392][ 69]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.17.53:605][ 78]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.17.54:587][120]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.17.55:019][138]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.17.55:060][139]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.08.17-03.17.55:060][139]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.17.55:060][139]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.17-03.17.55:060][139]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.08.17-03.18.13:737][177]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.18.13:824][178]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.18.13:825][178]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.18.14:303][201]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.18.14:407][206]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.18.15:488][259]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.08.17-03.18.15:488][259]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.18.15:488][259]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.17-03.18.15:488][259]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.08.17-03.18.22:630][655]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.18.22:642][655]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.18.22:668][655]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.18.22:668][655]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.18.22:683][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.08.17-03.18.23:186][674]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.18.23:553][691]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.18.24:688][739]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.18.24:712][740]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.18.24:744][741]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.08.17-03.18.24:744][741]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.08.17-03.18.24:744][741]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.17-03.18.24:744][741]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.08.17-03.18.26:328][824]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.18.26:357][825]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.18.26:357][825]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.18.26:951][852]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.18.27:003][854]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.18.31:037][ 84]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.18.31:062][ 85]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.18.31:062][ 85]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.18.31:582][109]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.18.31:738][116]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.18.32:864][166]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.08.17-03.18.32:864][166]MaterialEditorStats: Base pass vertex shader: 35 instructions
+[2018.08.17-03.18.32:864][166]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.17-03.18.32:864][166]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.08.17-03.19.00:374][750]LogMaterialEditor: Saving and Compiling material Level_Prototype
+[2018.08.17-03.19.01:736][750]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.19.01:770][750]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.19.01:770][750]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.19.01:793][750]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.19.01:818][750]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.19.01:903][750]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Level_Prototype, compiling. 
+[2018.08.17-03.19.03:625][750]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.17-03.19.03:625][750]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.17-03.19.03:625][750]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.17-03.19.03:626][750]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.17-03.19.03:629][750]TextureStreamingBuild: Display: Compiling optional shaders took 1.735 seconds.
+[2018.08.17-03.19.05:351][750]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Level_PrototypeF8AAAB7B434904F49FB7F0ABE6BA632B.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Materials/Level_Prototype.uasset'
+[2018.08.17-03.19.21:110][607]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.08.17-03.19.21:128][607]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.19.21:128][607]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.19.22:513][674]LogEditorTransaction: Undo Move Node
+[2018.08.17-03.19.22:525][674]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.19.22:549][674]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.19.22:549][674]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.19.23:380][704]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.19.23:519][710]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.19.24:782][768]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.08.17-03.19.24:782][768]MaterialEditorStats: Base pass vertex shader: 35 instructions
+[2018.08.17-03.19.24:782][768]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.17-03.19.24:783][768]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.08.17-03.19.47:396][957]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.19.47:411][957]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.19.47:411][957]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.19.47:411][957]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.08.17-03.19.47:445][957]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.19.49:077][ 29]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.17-03.19.49:277][ 38]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.17-03.19.50:484][ 92]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.19.50:802][105]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.19.51:041][116]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.19.51:042][116]LogMaterialEditor: Saving and Compiling material Level_Prototype
+[2018.08.17-03.19.52:739][116]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.19.52:761][116]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.19.52:785][116]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.19.52:785][116]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.19.52:827][116]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.19.52:848][116]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.19.53:002][116]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Level_Prototype, compiling. 
+[2018.08.17-03.19.54:425][116]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.17-03.19.54:426][116]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.17-03.19.54:426][116]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.17-03.19.54:426][116]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.17-03.19.54:428][116]TextureStreamingBuild: Display: Compiling optional shaders took 1.435 seconds.
+[2018.08.17-03.19.56:098][116]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Level_PrototypeB99665A6407F0379F2196D82AB50C2FE.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Materials/Level_Prototype.uasset'
+[2018.08.17-03.19.56:237][116]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.08.17-03.19.56:237][116]MaterialEditorStats: Base pass vertex shader: 35 instructions
+[2018.08.17-03.19.56:237][116]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.17-03.19.56:237][116]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.08.17-03.19.57:853][208]LogSlate: Window 'Level_Prototype' being destroyed
+[2018.08.17-03.23.34:256][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.17-03.23.41:317][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.23.47:666][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.17-03.24.18:172][666]LogEditorViewport: Clicking Background
+[2018.08.17-03.24.37:693][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.24.52:504][ 93]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/WorkStation/Assets/Textures/PrototypeTexture_Sprite.PrototypeTexture_Sprite
+[2018.08.17-03.25.09:992][272]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1172).
+[2018.08.17-03.25.10:203][296]LogSlate: Window 'PrototypeTexture_Sprite*' being destroyed
+[2018.08.17-03.25.48:862][267]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Prototype_Level_01_Auto18217539F4AA1A0017BFD03A43B970900.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Scenes/Prototype/Prototype_Level_01_Auto1.umap'
+[2018.08.17-03.25.49:007][267]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WorkStation/Scenes/Prototype/Prototype_Level_01' took 0.380
+[2018.08.17-03.25.49:007][267]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.380
+[2018.08.17-03.25.49:013][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Textures/2DBackgroundBlockAtlas] ([1] browsable assets)...
+[2018.08.17-03.25.49:026][267]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WorkStation/Assets/Textures/2DBackgroundBlockAtlas.2DBackgroundBlockAtlas]
+[2018.08.17-03.25.49:026][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Textures/2DBackgroundBlockAtlas]
+[2018.08.17-03.25.49:109][267]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DBackgroundBlockAtlas_Auto131657E124D693DB60F44FC88B4029EE4.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Textures/2DBackgroundBlockAtlas_Auto1.uasset'
+[2018.08.17-03.25.49:113][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Textures/2DBackgroundTile] ([1] browsable assets)...
+[2018.08.17-03.25.49:127][267]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WorkStation/Assets/Textures/2DBackgroundTile.2DBackgroundTile]
+[2018.08.17-03.25.49:127][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Textures/2DBackgroundTile]
+[2018.08.17-03.25.49:356][267]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DBackgroundTile_Auto1C3DBFDE2404B6068ACD5BDBC37F9B872.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Textures/2DBackgroundTile_Auto1.uasset'
+[2018.08.17-03.25.49:360][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Textures/2DBackground] ([1] browsable assets)...
+[2018.08.17-03.25.49:373][267]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WorkStation/Assets/Textures/2DBackground.2DBackground]
+[2018.08.17-03.25.49:373][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Textures/2DBackground]
+[2018.08.17-03.25.49:485][267]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DBackground_Auto1F8940ACA4718049271CBE3954B72DC22.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Textures/2DBackground_Auto1.uasset'
+[2018.08.17-03.25.49:488][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Textures/2DCharacter_IdleAnimAtlas] ([1] browsable assets)...
+[2018.08.17-03.25.49:503][267]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WorkStation/Assets/Textures/2DCharacter_IdleAnimAtlas.2DCharacter_IdleAnimAtlas]
+[2018.08.17-03.25.49:503][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Textures/2DCharacter_IdleAnimAtlas]
+[2018.08.17-03.25.49:691][267]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DCharacter_IdleAnimAtlas_Auto1157023A24C8837006D344BB15D8A310B.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Textures/2DCharacter_IdleAnimAtlas_Auto1.uasset'
+[2018.08.17-03.25.49:694][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Textures/2DCharacter_RunAnimAtlas] ([1] browsable assets)...
+[2018.08.17-03.25.49:708][267]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WorkStation/Assets/Textures/2DCharacter_RunAnimAtlas.2DCharacter_RunAnimAtlas]
+[2018.08.17-03.25.49:708][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Textures/2DCharacter_RunAnimAtlas]
+[2018.08.17-03.25.49:853][267]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DCharacter_RunAnimAtlas_Auto1294D306B469CC6C9893E22851F744594.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Textures/2DCharacter_RunAnimAtlas_Auto1.uasset'
+[2018.08.17-03.25.49:860][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Textures/CharacterJumping] ([1] browsable assets)...
+[2018.08.17-03.25.49:874][267]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WorkStation/Assets/Textures/CharacterJumping.CharacterJumping]
+[2018.08.17-03.25.49:874][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Textures/CharacterJumping]
+[2018.08.17-03.25.50:007][267]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/CharacterJumping_Auto178D818D5479163E36DA272B13D8865A6.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Textures/CharacterJumping_Auto1.uasset'
+[2018.08.17-03.25.50:011][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Textures/PrototypeTexture] ([1] browsable assets)...
+[2018.08.17-03.25.50:026][267]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WorkStation/Assets/Textures/PrototypeTexture.PrototypeTexture]
+[2018.08.17-03.25.50:026][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Textures/PrototypeTexture]
+[2018.08.17-03.25.50:094][267]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/PrototypeTexture_Auto1E3AA79EF468069AE2D1B5BBAEED39AAF.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Textures/PrototypeTexture_Auto1.uasset'
+[2018.08.17-03.25.50:098][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Textures/2DBackground_Sprite] ([1] browsable assets)...
+[2018.08.17-03.25.50:112][267]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WorkStation/Assets/Textures/2DBackground_Sprite.2DBackground_Sprite]
+[2018.08.17-03.25.50:112][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Textures/2DBackground_Sprite]
+[2018.08.17-03.25.50:185][267]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DBackground_Sprite_Auto186EFDD994F119AA9F9CD5D8B31144CB3.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Textures/2DBackground_Sprite_Auto1.uasset'
+[2018.08.17-03.25.50:188][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Textures/PrototypeTexture_Sprite] ([1] browsable assets)...
+[2018.08.17-03.25.50:203][267]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WorkStation/Assets/Textures/PrototypeTexture_Sprite.PrototypeTexture_Sprite]
+[2018.08.17-03.25.50:203][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Textures/PrototypeTexture_Sprite]
+[2018.08.17-03.25.50:292][267]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/PrototypeTexture_Sprite_Auto1763A098C4EF5C06A55D34DAD399F82E7.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Textures/PrototypeTexture_Sprite_Auto1.uasset'
+[2018.08.17-03.25.50:295][267]LogFileHelpers: Auto-saving content packages took 1.286
+[2018.08.17-03.25.55:041][760]LogAssetEditorManager: Opening Asset editor for Material /Game/WorkStation/Assets/Materials/Level_Prototype.Level_Prototype
+[2018.08.17-03.25.55:045][760]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.17-03.25.55:150][760]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.17-03.25.55:160][760]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.17-03.25.55:171][760]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.25.55:171][760]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.25.55:197][760]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.08.17-03.25.56:381][834]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.25.56:456][840]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.25.57:069][888]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.25.57:462][919]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.25.57:478][920]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.08.17-03.25.57:479][920]MaterialEditorStats: Base pass vertex shader: 35 instructions
+[2018.08.17-03.25.57:479][920]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.17-03.25.57:479][920]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.08.17-03.26.05:112][407]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.17-03.26.05:122][407]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.17-03.26.05:142][408]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.26.05:142][408]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.26.05:775][458]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.26.06:288][494]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.26.07:266][565]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.17-03.26.07:315][568]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.26.07:374][573]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.26.07:375][573]LogMaterialEditor: Saving and Compiling material Level_Prototype
+[2018.08.17-03.26.09:141][573]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.26.09:141][573]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.26.09:158][573]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.17-03.26.09:190][573]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.26.09:191][573]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.26.09:210][573]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.26.09:236][573]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-03.26.09:344][573]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Level_Prototype, compiling. 
+[2018.08.17-03.26.10:508][573]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.17-03.26.10:508][573]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.17-03.26.10:508][573]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.17-03.26.10:508][573]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.17-03.26.10:511][573]TextureStreamingBuild: Display: Compiling optional shaders took 1.178 seconds.
+[2018.08.17-03.26.12:158][573]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Level_Prototype0CEB4901409B2457BACA0FB1BF4C4B03.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Materials/Level_Prototype.uasset'
+[2018.08.17-03.26.12:181][573]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.08.17-03.26.12:181][573]MaterialEditorStats: Base pass vertex shader: 35 instructions
+[2018.08.17-03.26.12:181][573]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.17-03.26.12:182][573]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.08.17-03.27.03:450][ 19]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/PrototypeTexture_SpriteA050E6AD4B5BBF7B6A38869D95E342FE.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Textures/PrototypeTexture_Sprite.uasset'
+[2018.08.17-03.27.13:440][839]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PrototypeTexture_Sprite)
+[2018.08.17-03.27.18:227][913]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (2DBackground_Sprite)
+[2018.08.17-03.27.20:108][ 39]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PrototypeTexture_Sprite)
+[2018.08.17-03.27.22:811][217]Cmd: TRANSACTION UNDO
+[2018.08.17-03.27.22:811][217]LogEditorTransaction: Undo Move Actors
+[2018.08.17-03.27.22:864][217]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.17-03.27.22:889][217]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.27.22:889][217]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.27.24:303][285]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.27.24:447][292]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.27.25:522][347]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.08.17-03.27.25:522][347]MaterialEditorStats: Base pass vertex shader: 35 instructions
+[2018.08.17-03.27.25:522][347]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.17-03.27.25:523][347]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.08.17-03.27.52:277][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.28.29:681][729]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PrototypeTexture_Sprite)
+[2018.08.17-03.28.32:350][921]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (2DBackground_Sprite)
+[2018.08.17-03.28.33:549][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.28.37:221][250]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PrototypeTexture_Sprite)
+[2018.08.17-03.28.48:426][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.17-03.28.48:606][ 31]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Prototype_Level_01D1A40854448D22995B2FFDAEBB37BEA2.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Scenes/Prototype/Prototype_Level_01.umap'
+[2018.08.17-03.28.50:845][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.28.58:134][721]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.17-03.28.58:857][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.28.58:930][782]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.17-03.28.58:959][782]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.17-03.28.58:979][782]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerCharacter before play...
+[2018.08.17-03.28.59:108][782]LogPlayLevel: PlayLevel: Blueprint regeneration took 149 ms (1 blueprints)
+[2018.08.17-03.28.59:156][782]PIE: New page: PIE session: Prototype_Level_01 (17 Aug 2018 11:28:59 pm)
+[2018.08.17-03.28.59:156][782]LogPlayLevel: Creating play world package: /Game/WorkStation/Scenes/Prototype/UEDPIE_0_Prototype_Level_01
+[2018.08.17-03.28.59:176][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019988s)
+[2018.08.17-03.28.59:177][782]LogAIModule: Creating AISystem for world Prototype_Level_01
+[2018.08.17-03.28.59:178][782]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2018.08.17-03.28.59:178][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WorkStation/Scenes/Prototype/Prototype_Level_01.Prototype_Level_01 to /Game/WorkStation/Scenes/Prototype/UEDPIE_0_Prototype_Level_01.Prototype_Level_01 (0.021577s)
+[2018.08.17-03.28.59:404][782]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.17-03.28.59:417][782]LogInit: FAudioDevice initialized.
+[2018.08.17-03.28.59:470][782]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode'
+[2018.08.17-03.28.59:470][782]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode'
+[2018.08.17-03.28.59:470][782]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C'
+[2018.08.17-03.28.59:470][782]LogLoad: Game class is 'GameModeBase'
+[2018.08.17-03.28.59:481][782]LogWorld: Bringing World /Game/WorkStation/Scenes/Prototype/UEDPIE_0_Prototype_Level_01.Prototype_Level_01 up for play (max tick rate 3) at 2018.08.17-13.28.59
+[2018.08.17-03.28.59:481][782]LogWorld: Bringing up level for play took: 0.000779
+[2018.08.17-03.28.59:531][782]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 10 classes and 0 folders.
+[2018.08.17-03.28.59:532][782]PIE: Play in editor start time for /Game/WorkStation/Scenes/Prototype/UEDPIE_0_Prototype_Level_01 0.474
+[2018.08.17-03.29.01:107][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.17-03.29.01:148][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.17-03.29.01:248][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.17-03.29.01:277][877]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.08.17-03.29.04:704][927]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (2DBackground_Sprite)
+[2018.08.17-03.29.05:310][965]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PrototypeTexture_Sprite)
+[2018.08.17-03.29.20:148][ 62]LogEditorViewport: Clicking Background
+[2018.08.17-03.29.21:826][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.29.25:809][541]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.17-03.29.26:885][622]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.17-03.29.27:340][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.17-03.29.27:500][656]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Prototype_Level_01D0D9624A45C2C1663C80AC8ACB0DB469.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Scenes/Prototype/Prototype_Level_01.umap'
+[2018.08.17-03.29.31:285][947]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.17-03.29.33:248][ 99]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.17-03.29.34:814][220]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.08.17-03.29.35:211][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.17-03.29.35:373][248]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Prototype_Level_0170989EA6411516987599698E04E99084.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Scenes/Prototype/Prototype_Level_01.umap'
+[2018.08.17-03.29.59:634][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.30.01:963][ 81]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PrototypeTexture_Sprite)
+[2018.08.17-03.30.02:762][137]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (2DBackground_Sprite)
+[2018.08.17-03.30.04:342][255]LogEditorViewport: Clicking Background
+[2018.08.17-03.30.12:695][130]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PrototypeTexture_Sprite)
+[2018.08.17-03.30.17:162][460]Cmd: TRANSACTION UNDO
+[2018.08.17-03.30.17:162][460]LogEditorTransaction: Undo Move Actors
+[2018.08.17-03.30.17:167][460]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.17-03.30.17:188][460]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.30.17:188][460]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.30.18:764][537]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.30.18:874][543]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.30.20:041][604]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.08.17-03.30.20:041][604]MaterialEditorStats: Base pass vertex shader: 35 instructions
+[2018.08.17-03.30.20:041][604]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.17-03.30.20:042][604]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.08.17-03.30.32:929][540]LogEditorViewport: Clicking Background
+[2018.08.17-03.30.34:259][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.17-03.30.34:409][668]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Prototype_Level_01E7EDFDEB4C3B594F6C380B93AD475554.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Scenes/Prototype/Prototype_Level_01.umap'
+[2018.08.17-03.31.32:685][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.32.12:248][557]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Prototype_Level_01301ED4F6421D98FC30B01DBBBE93B47B.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Scenes/Prototype/Prototype_Level_01.umap'
+[2018.08.17-03.32.21:574][808]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\PCBackup\MISC\Unity Games\Cloudy Skies\Characters\Main Character\Main Character Stance (Single).png)
+[2018.08.17-03.32.21:583][808]LogTexture: Display: Building textures: Main_Character_Stance__Single_ (BGRA8, 40X58)
+[2018.08.17-03.33.13:245][852]LogSlate: Window 'Extract sprites' being destroyed
+[2018.08.17-03.33.14:904][ 11]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Stance__Single__Sprite_0.Main_Character_Stance__Single__Sprite_0
+[2018.08.17-03.33.23:476][700]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.17-03.33.27:933][103]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Stance__Single__Sprite.Main_Character_Stance__Single__Sprite
+[2018.08.17-03.33.40:035][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.33.48:772][ 73]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.17-03.33.53:549][ 73]LogSlate: Window 'Message' being destroyed
+[2018.08.17-03.33.54:690][ 73]LogSlate: Window 'Message' being destroyed
+[2018.08.17-03.34.02:071][719]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Stance__Single__Sprite.Main_Character_Stance__Single__Sprite
+[2018.08.17-03.34.09:742][233]LogSlate: Window 'Main_Character_Stance__Single__Sprite*' being destroyed
+[2018.08.17-03.34.11:620][401]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Prototype_Level_01324732074C064EEAC9BCF8BAAD79A108.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Scenes/Prototype/Prototype_Level_01.umap'
+[2018.08.17-03.35.01:300][656]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/MaIn_Character_Idle_0184C0D1E44D8ECDD94DDBE68F5D1413BF.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Characters/Main_Character/MaIn_Character_Idle_01.uasset'
+[2018.08.17-03.35.05:387][  8]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Prototype_Level_011DEA35E94EA4EA46FCEC9D89BD39AD33.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Scenes/Prototype/Prototype_Level_01.umap'
+[2018.08.17-03.36.14:106][ 76]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Stance__Single__Sprite.Main_Character_Stance__Single__Sprite
+[2018.08.17-03.36.27:300][355]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Main_Character_Walk_017F871CEF46008E35BF2FAA8BEBDDF2F3.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Characters/Main_Character/Main_Character_Walk_01.uasset'
+[2018.08.17-03.36.42:184][909]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Walk_01.Main_Character_Walk_01
+[2018.08.17-03.40.06:720][859]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/WorkStation/Assets/Animations/Main_Character_Idle.Main_Character_Idle
+[2018.08.17-03.41.38:682][852]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Main_Character_IdleEF5BC6534CA175883D84D9858F393A91.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Animations/Main_Character_Idle.uasset'
+[2018.08.17-03.41.39:490][907]LogSlate: Window 'Main_Character_Idle' being destroyed
+[2018.08.17-03.41.39:496][907]LogSlate: Window 'Main_Character_Idle' being destroyed
+[2018.08.17-03.42.01:596][123]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/WorkStation/Assets/Animations/Main_Character_Walk.Main_Character_Walk
+[2018.08.17-03.42.25:484][ 69]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Main_Character_WalkE4FD9BBD43E55533FEC2DDB51C5A40A9.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Animations/Main_Character_Walk.uasset'
+[2018.08.17-03.42.26:334][129]LogSlate: Window 'Main_Character_Walk' being destroyed
+[2018.08.17-03.42.26:340][129]LogSlate: Window 'Main_Character_Walk' being destroyed
+[2018.08.17-03.42.41:133][592]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/WorkStation/Assets/Animations/Main_Character_Idle.Main_Character_Idle
+[2018.08.17-03.42.44:646][806]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Main_Character_IdleCA63B368454E826F9154CE926054C636.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Animations/Main_Character_Idle.uasset'
+[2018.08.17-03.42.45:525][873]LogSlate: Window 'Main_Character_Idle' being destroyed
+[2018.08.17-03.42.45:534][873]LogSlate: Window 'Main_Character_Idle' being destroyed
+[2018.08.17-03.45.05:965][580]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WorkStation/Scenes/Prototype/Prototype_Level_01' took 0.060
+[2018.08.17-03.45.05:970][580]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Stance__Single_] ([1] browsable assets)...
+[2018.08.17-03.45.05:971][580]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Stance__Single_.Main_Character_Stance__Single_]
+[2018.08.17-03.45.05:971][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Stance__Single_]
+[2018.08.17-03.45.06:089][580]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Main_Character_Stance__Single__ADC84425F41793DC6A1EE25A91322D5B8.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Stance__Single__Auto2.uasset'
+[2018.08.17-03.45.06:092][580]LogFileHelpers: Auto-saving content packages took 0.126
+[2018.08.17-03.48.53:218][937]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.17-03.48.59:524][585]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/WorkStation/Blueprints/Main_Character.Main_Character
+[2018.08.17-03.49.00:739][585]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 116 classes and 0 folders.
+[2018.08.17-03.49.05:943][741]LogSlate: Window 'Main_Character*' being destroyed
+[2018.08.17-03.49.07:253][817]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Main_CharacterB01B33E245CCE6889F5C5F80DFBA8BFE.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Blueprints/Main_Character.uasset'
+[2018.08.17-03.50.18:212][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.51.04:173][922]LogSlate: Window 'Size Map' being destroyed
+[2018.08.17-03.51.04:179][922]LogSlate: Window 'Size Map' being destroyed
+[2018.08.17-03.52.48:724][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.52.59:518][918]LogEditorTransaction: Undo Modify Component(s)
+[2018.08.17-03.52.59:525][918]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.17-03.52.59:555][918]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-03.52.59:555][918]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-03.53.00:449][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.53.00:857][ 11]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.17-03.53.01:100][ 26]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.17-03.53.02:043][ 92]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.08.17-03.53.02:043][ 92]MaterialEditorStats: Base pass vertex shader: 35 instructions
+[2018.08.17-03.53.02:043][ 92]MaterialEditorStats: Texture samplers: 1/16
+[2018.08.17-03.53.02:043][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.08.17-03.53.14:379][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-03.53.14:477][362]BlueprintLog: New page: Compile Main_Character
+[2018.08.17-03.53.15:306][398]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Main_CharacterBAE6B0404A34BEDCE586C6914E7E1A41.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Blueprints/Main_Character.uasset'
+[2018.08.17-03.53.45:377][356]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Main_CharacterE17002B441BB73666A45179C78CD3C88.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Blueprints/Main_Character.uasset'
+[2018.08.17-03.55.06:929][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WorkStation/Scenes/Prototype/Prototype_Level_01' took 0.075
+[2018.08.17-03.55.06:933][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Characters/Main_Character/MaIn_Character_Idle_01] ([1] browsable assets)...
+[2018.08.17-03.55.06:949][ 57]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WorkStation/Assets/Characters/Main_Character/MaIn_Character_Idle_01.MaIn_Character_Idle_01]
+[2018.08.17-03.55.06:949][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Characters/Main_Character/MaIn_Character_Idle_01]
+[2018.08.17-03.55.07:004][ 57]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/MaIn_Character_Idle_01_Auto347CE0E2B4F452AE9718855B07F8A1428.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Characters/Main_Character/MaIn_Character_Idle_01_Auto3.uasset'
+[2018.08.17-03.55.07:009][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Walk_01] ([1] browsable assets)...
+[2018.08.17-03.55.07:023][ 57]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Walk_01.Main_Character_Walk_01]
+[2018.08.17-03.55.07:023][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Walk_01]
+[2018.08.17-03.55.07:108][ 57]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Main_Character_Walk_01_Auto3F8DD356543AFDCEF8B85C881B7CEA949.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Autosaves/Game/WorkStation/Assets/Characters/Main_Character/Main_Character_Walk_01_Auto3.uasset'
+[2018.08.17-03.55.07:111][ 57]LogFileHelpers: Auto-saving content packages took 0.181
+[2018.08.17-04.20.42:707][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.17-04.20.44:262][ 90]LogSlate: Window 'Message' being destroyed
+[2018.08.17-04.20.45:834][ 90]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.08.17-04.20.45:876][ 90]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.17-04.20.45:876][ 90]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.17-04.20.45:898][ 90]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-04.20.45:925][ 90]LogMaterial: Display: Missing cached shader map for material Level_Prototype, compiling. 
+[2018.08.17-04.20.46:061][ 90]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Level_Prototype, compiling. 
+[2018.08.17-04.20.48:237][ 90]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.17-04.20.48:237][ 90]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.17-04.20.48:237][ 90]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.17-04.20.48:237][ 90]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.17-04.20.48:241][ 90]TextureStreamingBuild: Display: Compiling optional shaders took 2.191 seconds.
+[2018.08.17-04.20.51:392][ 90]LogSlate: Window 'Save Content' being destroyed
+[2018.08.17-04.20.51:514][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/MaIn_Character_Idle_01C32BECB243AA73E6C207DC86C1383CAD.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Characters/Main_Character/MaIn_Character_Idle_01.uasset'
+[2018.08.17-04.20.51:627][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Main_Character_Stance__Single_51D373BB4B0F3678EC704E8909C2E934.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Characters/Main_Character/Main_Character_Stance__Single_.uasset'
+[2018.08.17-04.20.51:748][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Main_Character_Walk_0104CB6BFB4E70D7CBE50D6D8EBAF79E2C.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Characters/Main_Character/Main_Character_Walk_01.uasset'
+[2018.08.17-04.20.52:201][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/Level_PrototypeDBD4FB164FB060FE1CCC58B00FC7D07E.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Materials/Level_Prototype.uasset'
+[2018.08.17-04.20.52:348][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DBackgroundE683477748B6EF0D670AEEA2C1277271.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Textures/2DBackground.uasset'
+[2018.08.17-04.20.52:442][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DBackground_SpriteB62FD46941E3DC76806C4D96881707F9.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Textures/2DBackground_Sprite.uasset'
+[2018.08.17-04.20.52:604][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DBackgroundBlockAtlas7D47C8384389CFA4DE99D7BAA162A82A.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Textures/2DBackgroundBlockAtlas.uasset'
+[2018.08.17-04.20.52:762][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DBackgroundTileD3C8B56B46BAD91E3E5652905141451D.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Textures/2DBackgroundTile.uasset'
+[2018.08.17-04.20.53:004][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DCharacter_IdleAnimAtlas456BDED341A9CA910A111AB5D3B333EC.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Textures/2DCharacter_IdleAnimAtlas.uasset'
+[2018.08.17-04.20.53:260][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/2DCharacter_RunAnimAtlas460BF3294A8B9268E76032B700DA9C42.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Textures/2DCharacter_RunAnimAtlas.uasset'
+[2018.08.17-04.20.53:353][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/CharacterJumping014E486A4ED651319C9BF5AB51964817.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Textures/CharacterJumping.uasset'
+[2018.08.17-04.20.53:457][ 90]LogSavePackage: Moving 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Saved/PrototypeTexture57E98B754BA175866F3B4993D5519780.tmp' to 'F:/PCBackup/MISC/Unity Games/Cloudy Skies/Cloudy-Skies-UE4/Cloudy_Skies_UE4/Content/WorkStation/Assets/Textures/PrototypeTexture.uasset'
+[2018.08.17-04.20.54:231][ 90]LogSlate: Window 'Cloudy_Skies_UE4 - Unreal Editor' being destroyed
+[2018.08.17-04.20.54:240][ 90]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.17-04.20.55:008][ 91]Cmd: QUIT_EDITOR
+[2018.08.17-04.20.55:464][ 91]LogExit: Preparing to exit.
+[2018.08.17-04.20.57:288][ 91]LogExit: Editor shut down
+[2018.08.17-04.20.57:291][ 91]LogExit: Transaction tracking system shut down
+[2018.08.17-04.20.59:594][ 91]LogExit: Object subsystem successfully closed.
+[2018.08.17-04.20.59:669][ 91]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.17-04.20.59:678][ 91]LogD3D11RHI: Shutdown
+[2018.08.17-04.20.59:678][ 91]LogD3D11RHI: CleanupD3DDevice
+[2018.08.17-04.20.59:699][ 91]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.17-04.20.59:832][ 91]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2018.08.17-04.20.59:832][ 91]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (622)
+[2018.08.17-04.20.59:832][ 91]LogModuleManager: Shutting down and abandoning module Voice (620)
+[2018.08.17-04.20.59:845][ 91]LogModuleManager: Shutting down and abandoning module NewLevelDialog (618)
+[2018.08.17-04.20.59:846][ 91]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (616)
+[2018.08.17-04.20.59:846][ 91]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (614)
+[2018.08.17-04.20.59:846][ 91]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (612)
+[2018.08.17-04.20.59:846][ 91]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.08.17-04.20.59:846][ 91]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.08.17-04.20.59:853][ 91]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.08.17-04.20.59:853][ 91]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.08.17-04.20.59:853][ 91]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.08.17-04.20.59:855][ 91]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.08.17-04.20.59:855][ 91]LogModuleManager: Shutting down and abandoning module MeshBuilder (598)
+[2018.08.17-04.20.59:855][ 91]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.08.17-04.20.59:855][ 91]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.08.17-04.20.59:855][ 91]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.08.17-04.20.59:855][ 91]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.08.17-04.20.59:855][ 91]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.08.17-04.20.59:855][ 91]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.08.17-04.20.59:856][ 91]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.08.17-04.20.59:856][ 91]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.08.17-04.20.59:856][ 91]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.08.17-04.20.59:856][ 91]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.08.17-04.20.59:856][ 91]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.08.17-04.20.59:856][ 91]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.08.17-04.20.59:856][ 91]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.08.17-04.20.59:856][ 91]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.08.17-04.20.59:856][ 91]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.08.17-04.20.59:856][ 91]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.08.17-04.20.59:857][ 91]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.08.17-04.20.59:857][ 91]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.08.17-04.20.59:857][ 91]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.08.17-04.20.59:857][ 91]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.08.17-04.20.59:857][ 91]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.08.17-04.20.59:857][ 91]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.08.17-04.20.59:857][ 91]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.08.17-04.20.59:858][ 91]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.08.17-04.20.59:859][ 91]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.08.17-04.20.59:859][ 91]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.08.17-04.20.59:859][ 91]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.08.17-04.20.59:859][ 91]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.08.17-04.20.59:859][ 91]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.08.17-04.20.59:859][ 91]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.08.17-04.20.59:859][ 91]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.08.17-04.21.01:347][ 91]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.08.17-04.21.01:348][ 91]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.08.17-04.21.01:348][ 91]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.08.17-04.21.01:348][ 91]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.08.17-04.21.01:348][ 91]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.08.17-04.21.01:348][ 91]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.08.17-04.21.01:348][ 91]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.08.17-04.21.01:348][ 91]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.08.17-04.21.01:418][ 91]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.08.17-04.21.01:418][ 91]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.08.17-04.21.01:418][ 91]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.08.17-04.21.01:418][ 91]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.08.17-04.21.01:418][ 91]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.08.17-04.21.01:418][ 91]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.08.17-04.21.01:419][ 91]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.08.17-04.21.01:419][ 91]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.08.17-04.21.01:419][ 91]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.08.17-04.21.01:419][ 91]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.08.17-04.21.01:428][ 91]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.08.17-04.21.01:429][ 91]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.08.17-04.21.01:431][ 91]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.08.17-04.21.01:432][ 91]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.08.17-04.21.01:432][ 91]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.08.17-04.21.01:432][ 91]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.08.17-04.21.01:432][ 91]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.08.17-04.21.01:432][ 91]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.08.17-04.21.01:456][ 91]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.08.17-04.21.01:457][ 91]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.08.17-04.21.01:457][ 91]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.08.17-04.21.01:457][ 91]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.08.17-04.21.01:457][ 91]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.08.17-04.21.01:463][ 91]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.08.17-04.21.01:463][ 91]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.08.17-04.21.01:463][ 91]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.08.17-04.21.01:463][ 91]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.08.17-04.21.01:463][ 91]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.08.17-04.21.01:463][ 91]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.08.17-04.21.01:463][ 91]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.08.17-04.21.01:463][ 91]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.08.17-04.21.01:463][ 91]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.08.17-04.21.01:464][ 91]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.08.17-04.21.01:464][ 91]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.08.17-04.21.01:464][ 91]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.08.17-04.21.01:465][ 91]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.08.17-04.21.01:465][ 91]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.08.17-04.21.01:465][ 91]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.08.17-04.21.01:465][ 91]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.08.17-04.21.01:465][ 91]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.08.17-04.21.01:465][ 91]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.08.17-04.21.01:465][ 91]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.08.17-04.21.01:465][ 91]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.08.17-04.21.01:466][ 91]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.08.17-04.21.01:467][ 91]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.08.17-04.21.01:467][ 91]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.08.17-04.21.01:467][ 91]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.08.17-04.21.01:467][ 91]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.08.17-04.21.01:467][ 91]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.08.17-04.21.01:467][ 91]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.08.17-04.21.01:467][ 91]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.08.17-04.21.01:467][ 91]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.08.17-04.21.01:568][ 91]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.08.17-04.21.01:669][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.08.17-04.21.01:669][ 91]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.08.17-04.21.01:670][ 91]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.08.17-04.21.01:670][ 91]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.08.17-04.21.01:670][ 91]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.08.17-04.21.01:670][ 91]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.08.17-04.21.01:671][ 91]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.08.17-04.21.01:679][ 91]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.08.17-04.21.01:679][ 91]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.08.17-04.21.01:680][ 91]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.08.17-04.21.01:680][ 91]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.08.17-04.21.01:681][ 91]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.08.17-04.21.01:689][ 91]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.08.17-04.21.01:690][ 91]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.08.17-04.21.01:690][ 91]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.08.17-04.21.01:690][ 91]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.08.17-04.21.01:690][ 91]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.08.17-04.21.01:690][ 91]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.08.17-04.21.01:692][ 91]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.08.17-04.21.01:698][ 91]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.08.17-04.21.01:698][ 91]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.08.17-04.21.01:698][ 91]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.08.17-04.21.01:700][ 91]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.08.17-04.21.01:719][ 91]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.08.17-04.21.01:719][ 91]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.08.17-04.21.01:719][ 91]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.08.17-04.21.01:719][ 91]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.08.17-04.21.01:727][ 91]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.08.17-04.21.01:727][ 91]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.08.17-04.21.01:727][ 91]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.08.17-04.21.01:727][ 91]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.08.17-04.21.01:727][ 91]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.08.17-04.21.01:727][ 91]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.08.17-04.21.01:727][ 91]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.08.17-04.21.01:727][ 91]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.08.17-04.21.01:727][ 91]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.08.17-04.21.01:727][ 91]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.08.17-04.21.01:727][ 91]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.08.17-04.21.01:728][ 91]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.08.17-04.21.01:728][ 91]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.08.17-04.21.01:728][ 91]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.08.17-04.21.01:728][ 91]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.08.17-04.21.01:728][ 91]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.08.17-04.21.01:728][ 91]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.08.17-04.21.01:729][ 91]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.08.17-04.21.01:826][ 91]LogDerivedDataCache: Shutdown
+[2018.08.17-04.21.01:826][ 91]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.08.17-04.21.01:826][ 91]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.08.17-04.21.01:826][ 91]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.08.17-04.21.01:826][ 91]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.08.17-04.21.01:826][ 91]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.08.17-04.21.01:826][ 91]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.08.17-04.21.01:826][ 91]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.08.17-04.21.01:827][ 91]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.08.17-04.21.01:834][ 91]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.08.17-04.21.01:834][ 91]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.08.17-04.21.01:846][ 91]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.08.17-04.21.01:846][ 91]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.08.17-04.21.01:913][ 91]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.08.17-04.21.01:913][ 91]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.08.17-04.21.01:913][ 91]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.08.17-04.21.01:913][ 91]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.08.17-04.21.01:913][ 91]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.08.17-04.21.01:913][ 91]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.08.17-04.21.01:914][ 91]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.08.17-04.21.01:915][ 91]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.08.17-04.21.01:916][ 91]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.08.17-04.21.01:939][ 91]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.08.17-04.21.01:939][ 91]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.17-04.21.01:939][ 91]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0CB33048-4A52-7BF9-513D-95A509ED66CD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=ef61e99f44835c88d22939b609cede90%7C2b3509be909c4dc3b0518cebb3773391%7C9371d86a-42aa-4b68-bf79-800524369cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.17-04.21.01:964][ 91]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.08.17-04.21.01:978][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.08.17-04.21.01:978][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.08.17-04.21.01:978][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.08.17-04.21.01:978][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.08.17-04.21.01:978][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.08.17-04.21.01:978][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.08.17-04.21.01:979][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.08.17-04.21.01:979][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.08.17-04.21.01:979][ 91]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.08.17-04.21.01:980][ 91]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.17-04.21.01:980][ 91]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.08.17-04.21.01:980][ 91]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.17-04.21.01:980][ 91]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.17-04.21.01:980][ 91]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.17-04.21.01:980][ 91]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.17-04.21.01:980][ 91]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.17-04.21.01:980][ 91]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.17-04.21.01:980][ 91]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.17-04.21.01:984][ 91]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.17-04.21.01:984][ 91]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.17-04.21.01:984][ 91]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.17-04.21.01:984][ 91]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.17-04.21.01:984][ 91]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.17-04.21.01:984][ 91]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.17-04.21.01:984][ 91]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.17-04.21.01:984][ 91]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.17-04.21.01:984][ 91]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.17-04.21.01:984][ 91]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.17-04.21.01:984][ 91]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.17-04.21.01:991][ 91]LogExit: Exiting.
+[2018.08.17-04.21.02:052][ 91]Log file closed, 08/17/18 14:21:02
